@@ -1,11 +1,4 @@
-<p float="left">
-  <img src="/ms2.png" width="25" />
-  <b> Microsoft Teams BOT</b>
-<img src="bot0.jpg" width="50" />
-<img src="teams.png" width="50" />
-  
-</p>
-
+<h1>  <b> Microsoft Teams BOT</b></h1>
 
   
 <h4>This is a  Microsoft Teams BOT which is used for Hiring Manager persona and update all the Information of Interviews </h4>
