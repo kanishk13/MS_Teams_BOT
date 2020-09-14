@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4paP7CXDce9i2r7Smj/ShQNJG1XsSHFEVtSFJK9HIFBxoOo2e9F1We+WZ5jwNJEaStWkJVFSXMkK6tHQekH/rA==",
+  "success": true,
+  "projectFilePath": "E:\\Microsoft Internship\\MS.GTA.BotService\\MS.GTA.BOTService.Common\\MS.GTA.BOTService.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kanishk vohra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kanishk vohra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
