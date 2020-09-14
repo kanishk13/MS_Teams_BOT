@@ -1,4 +1,5 @@
-# Microsoft_Teams_BOT
+# Microsoft_Teams_BOT     </br>  <img src="bot0.jpg" width="200"> 
+
 <h4>This is a  Microsoft Teams BOT which is used for Hiring Manager persona and update all the Information of Interviews </h4>
 <h4>As we all live all busy life This Bot will save a lot of time for Hiring Manager the Bot will notify the user </h4>
 <h4>All the update in a summrised manner </h4>
