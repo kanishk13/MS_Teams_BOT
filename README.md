@@ -11,7 +11,9 @@ All the update in a summrised manner </h4>
 | Microsoft Teams   | [MS_Teams](https://www.microsoft.com/en-in/microsoft-365/microsoft-teams/download-app)   | Teams  |
 | Adaptive Cards   | [Adaptive.io](https://adaptivecards.io/)   | Adaptive Cards 1.3  |
 | Azure  | [Azure](https://azure.microsoft.com/en-in/)   | Azure  |
+| Authentication Tokens   | [JWT](https://jwt.io/)   | JWT |
 | CosmosDB   | [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction)   | CosmosDB |
+| Task Modules  | [How Task Module works](https://docs.microsoft.com/en-us/microsoftteams/platform/task-modules-and-cards/what-are-task-modules)   | Task Modules |
 
 
 
