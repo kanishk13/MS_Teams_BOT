@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:3978/",
+      "applicationUrl": "",   /// enter your Application Url 
       "sslPort": 0
     }
   },
@@ -13,16 +13,15 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+        "ASPNETCORE_ENVIRONMENT": ""  //       }
     },
     "CoreBot": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:3978",
+      "applicationUrl": "",         // your Port with IP 
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+        "ASPNETCORE_ENVIRONMENT": ""    //
+      } 
     }
   }
 }
